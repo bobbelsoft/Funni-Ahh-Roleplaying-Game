@@ -1,0 +1,10 @@
+Alignment Chart is shown below, in the 1st row, the second lines shows how that character would think, in the 1st Column, the second line shows an example of what would that person do if a person was in a dangerous state or area (it would take a long time to explain each sentence, so just use common sense?)
+*credit given to some random guy on quora/reddit*
+
+| \| —><br>\|<br>↓ | Lawful<br>According to Principle                                                              | Neutral<br>According To Need                                                         | Chaotic <br>According To Impulse                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Good             | Lawful Good<br>Obsessive selflessness, always sprinting to cries of distress                  | NEUTRAL GOOD <br>Will calm the child but not the get cat out of the tree             | Chaotic Good<br>Will use any means to save the day, if they want to save the day     |
+| Neutral          | LAWFUL NEUTRAL<br> Believes in justice and believes in the law, does what they are told to do | TRUE NEUTRAL Steers clear of moral tests and does not take sides                     | CHAOTIC NEUTRAL Follows whimsy, takes care of themselves, Very spontaneous           |
+| Evil             | LAWFUL EVIL<br> The bad guy, but with sense and reason                                        | NEUTRAL EVIL<br> Do what they want with only them in mind, predictable but dangerous | CHAOTIC EVIL  <br>Run. Just run. assume they are psychopaths, Violent for no reason. |
+
+A character cannot only be “good” or only “Lawful” they can be anything like “Lawful good, neutral evil, etc…
